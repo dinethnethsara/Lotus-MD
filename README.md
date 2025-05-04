@@ -29,7 +29,7 @@ Lotus MD is a multi-device WhatsApp bot built with the Baileys API, offering a r
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/lotus-md.git
+   git clone https://github.com/dinethnethsara/lotus-md.git
    cd lotus-md
    ```
 
